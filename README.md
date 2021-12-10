@@ -1,4 +1,4 @@
-<img align="bottom" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="top" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## Hi there !
 - 👨‍🎓 I'm an Electrical & Electronics Engineering student at Iskenderun Technical University
