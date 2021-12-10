@@ -2,7 +2,7 @@
 
 ## Hi there !
 - 👨‍🎓 I'm an Electrical & Electronics Engineering student at Iskenderun Technical University
-- 🔭 I’m currently working on Unmanned Aerial Vehicle.
+- 🔭 I’m currently working on Unmanned Aerial Vehicle and QT Tools.
 - 🌱 I’m currently learning C++, JS and Python
 - 🥅 2022 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
 - ⚡ Fun fact: I love to table tennis, play chess, reading Spanish author and camping
