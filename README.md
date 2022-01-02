@@ -2,10 +2,10 @@
 
 ## Hi there !
 - 👨‍🎓 I'm an Electrical & Electronics Engineering student at Iskenderun Technical University
-- 🔭 I’m currently working on Unmanned Aerial Vehicle and QT Tools.
-- 🌱 I’m currently learning C++, JS and Python
-- 🥅 2022 Goals: Developing a machine learning based log analysis program for unmanned aerial vehicles. 🤖
-- ⚡ Fun fact: I love to table tennis, play chess, reading Spanish author and camping
+- 🔭 I’m currently working on Unmanned Aerial Vehicle, QT Tools and Altium Designer.
+- 🌱 I’m developing software&hardware for UAV systems.
+- 🥅 2022 Goals: Developing a machine learning based log analysis program for unmanned aerial vehicles.
+- ⚡ Fun fact: I love to table tennis, reading books -especially Spanish author- and camping
 
 <img align="top" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
