@@ -11,17 +11,24 @@
 
 <br />
 
- ## Languages and Tools: [<img align="left" alt="Visual Studio Code" width="26px" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" />][vsCode]
+ ## Languages and Tools: <img align="left" alt="Visual Studio Code" width="32px" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" />
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />][flutter]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
-[<img align="left" alt="Android" width="26px" src="https://404warehouse.files.wordpress.com/2016/07/gazebo_px4.png" />][android]
-[<img align="left" alt="Ios" width="26px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/arduino.svg" />][ios]
-[<img align="left" alt="Adobe XD" width="26px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/qt.svg" />][xd]
+<img align="left" alt="Visual Studio Code" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Git" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="64x" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Flutter" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+<img align="left" alt="Python" width="64px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />
+<img align="left" alt="Altium" width="80px" src="https://camo.githubusercontent.com/7c330673ec76ca875b84891e91a67805b396389c46e460b7801380f1588c28b6/68747470733a2f2f7777772e616c7469756d2e636f6d2f616c7469756d2d64657369676e65722d636f6d696e672d736f6f6e2f7468656d652f696d616765732f41445f466972737453637265656e5f58325f626c61636b2e706e67" />
+<img align="left" alt="Android" width="90px" src="https://404warehouse.files.wordpress.com/2016/07/gazebo_px4.png" />
+<img align="left" alt="Ios" width="64px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/arduino.svg" />
+<img align="left" alt="Adobe XD" width="64px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/qt.svg" />
 <br />
+
+<br />
+<br />
+<br />
+
+
 
 ## 📊 GitHub Analytics:
 
@@ -31,16 +38,8 @@
 <br />
 <br />
 
-[instagram]: https://www.instagram.com/ibrahim_talha_demir
-[bionluk]: https://bionluk.com/peyksoftware/ekibimle-beraber-mobil-uygulama-gelistirebilirim-332677
-[linkedin]: https://www.linkedin.com/in/ibrahim-talha-demir-4b513a1a9/
-[medium]: https://demiribrahimtalha.medium.com/
-[gmail]: mailto:demiribrahimtalha@gmail.com
-[flutter]: https://flutter.dev/
-[vsCode]: https://code.visualstudio.com/
-[git]: https://git-scm.com/
-[android]: https://www.android.com/
-[github]: https://github.com/IbrahimTalha0
-[python]: https://www.python.org/
-[ios]: https://www.apple.com/ios/ios-14/
-[xd]: https://www.adobe.com/products/xd.html
+
+
+
+
+
